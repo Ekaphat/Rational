@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="DESKTOP-386NCTL" name=" RationalTest " skipped="0" tests="1" time="0.0" timestamp="2564-09-07T09:35:14">
+  <properties>
+    <property name="sun.desktop" value="windows" />
+    <property name="ant.library.dir" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.specification.version" value="11" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="MS874" />
+    <property name="java.class.path" value="C:\Users\Earth\.jdks\corretto-11.0.12!\java.base;C:\Users\Earth\.jdks\corretto-11.0.12!\java.compiler;C:\Users\Earth\.jdks\corretto-11.0.12!\java.datatransfer;C:\Users\Earth\.jdks\corretto-11.0.12!\java.desktop;C:\Users\Earth\.jdks\corretto-11.0.12!\java.instrument;C:\Users\Earth\.jdks\corretto-11.0.12!\java.logging;C:\Users\Earth\.jdks\corretto-11.0.12!\java.management;C:\Users\Earth\.jdks\corretto-11.0.12!\java.management.rmi;C:\Users\Earth\.jdks\corretto-11.0.12!\java.naming;C:\Users\Earth\.jdks\corretto-11.0.12!\java.net.http;C:\Users\Earth\.jdks\corretto-11.0.12!\java.prefs;C:\Users\Earth\.jdks\corretto-11.0.12!\java.rmi;C:\Users\Earth\.jdks\corretto-11.0.12!\java.scripting;C:\Users\Earth\.jdks\corretto-11.0.12!\java.se;C:\Users\Earth\.jdks\corretto-11.0.12!\java.security.jgss;C:\Users\Earth\.jdks\corretto-11.0.12!\java.security.sasl;C:\Users\Earth\.jdks\corretto-11.0.12!\java.smartcardio;C:\Users\Earth\.jdks\corretto-11.0.12!\java.sql;C:\Users\Earth\.jdks\corretto-11.0.12!\java.sql.rowset;C:\Users\Earth\.jdks\corretto-11.0.12!\java.transaction.xa;C:\Users\Earth\.jdks\corretto-11.0.12!\java.xml;C:\Users\Earth\.jdks\corretto-11.0.12!\java.xml.crypto;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.accessibility;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.aot;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.attach;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.charsets;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.compiler;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.crypto.cryptoki;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.crypto.ec;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.crypto.mscapi;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.dynalink;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.editpad;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.hotspot.agent;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.httpserver;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.internal.ed;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.internal.jvmstat;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.internal.le;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.internal.opt;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.internal.vm.ci;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.internal.vm.compiler;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.internal.vm.compiler.management;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.jartool;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.javadoc;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.jcmd;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.jconsole;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.jdeps;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.jdi;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.jdwp.agent;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.jfr;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.jlink;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.jshell;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.jsobject;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.jstatd;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.localedata;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.management;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.management.agent;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.management.jfr;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.naming.dns;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.naming.ldap;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.naming.rmi;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.net;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.pack;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.rmic;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.scripting.nashorn;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.scripting.nashorn.shell;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.sctp;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.security.auth;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.security.jgss;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.unsupported;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.unsupported.desktop;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.xml.dom;C:\Users\Earth\.jdks\corretto-11.0.12!\jdk.zipfs;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-antlr.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-apache-bcel.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-apache-bsf.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-apache-log4j.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-apache-oro.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-apache-regexp.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-apache-resolver.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-apache-xalan2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-commons-logging.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-commons-net.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-jai.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-javamail.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-jdepend.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-jmf.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-jsch.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-junit.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-junit4.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-junitlauncher.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-launcher.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-netrexx.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-swing.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-testutil.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant-xz.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\idea_rt.jar" />
+    <property name="java.vm.vendor" value="Amazon.com Inc." />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="user.variant" value="" />
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/" />
+    <property name="user.timezone" value="" />
+    <property name="user.country.format" value="TH" />
+    <property name="os.name" value="Windows 10" />
+    <property name="java.vm.specification.version" value="11" />
+    <property name="user.country" value="US" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.boot.library.path" value="C:\Users\Earth\.jdks\corretto-11.0.12\bin" />
+    <property name="sun.java.command" value="com.intellij.rt.ant.execution.AntMain2 -logger com.intellij.rt.ant.execution.IdeaAntLogger2 -inputhandler com.intellij.rt.ant.execution.IdeaInputHandler -buildfile C:\Users\Earth\Desktop\QA\Rational\build.xml test" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="C:\Users\Earth" />
+    <property name="user.language" value="en" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2021-07-20" />
+    <property name="java.home" value="C:\Users\Earth\.jdks\corretto-11.0.12" />
+    <property name="basedir" value="C:\Users\Earth\Desktop\QA\Rational" />
+    <property name="file.separator" value="\" />
+    <property name="java.vm.compressedOopsMode" value="32-bit" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="ant.java.version" value="11" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="user.script" value="" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="11.0.12+7-LTS" />
+    <property name="user.name" value="Earth" />
+    <property name="ant.file" value="C:\Users\Earth\Desktop\QA\Rational\build.xml" />
+    <property name="path.separator" value=";" />
+    <property name="os.version" value="10.0" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="ant.project.invoked-targets" value="test" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="java.vendor.version" value="Corretto-11.0.12.7.1" />
+    <property name="ant.core.lib" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant\lib\ant.jar" />
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-11/issues/" />
+    <property name="java.io.tmpdir" value="C:\Users\Earth\AppData\Local\Temp\" />
+    <property name="java.version" value="11.0.12" />
+    <property name="user.dir" value="C:\Users\Earth\Desktop\QA\Rational" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="user.language.format" value="th" />
+    <property name="ant.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\ant" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.5 compiled on July 10 2018" />
+    <property name="java.library.path" value="C:\Users\Earth\.jdks\corretto-11.0.12\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Earth\AppData\Local\Microsoft\WindowsApps;;C:\Users\Earth\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Earth\AppData\Roaming\npm;." />
+    <property name="java.vendor" value="Amazon.com Inc." />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.vm.version" value="11.0.12+7-LTS" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="java.class.version" value="55.0" />
+  </properties>
+  <error message=" RationalTest " type="java.lang.ClassNotFoundException">java.lang.ClassNotFoundException:  RationalTest 
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:398)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.intellij.rt.ant.execution.AntMain2.main(AntMain2.java:31)
+</error>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
